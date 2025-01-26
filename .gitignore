@@ -14,3 +14,5 @@
 # Generated sound files
 /test/*.wav
 /test/*.mp3
+
+.DS_Store
